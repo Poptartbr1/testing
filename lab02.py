@@ -1,3 +1,5 @@
+#Maniga Constantin-Alexandru, Group 914 IE1
+
 from math import sqrt
 
 #MAIN OPERATIONS =================================================
